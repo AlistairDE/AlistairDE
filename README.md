@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Alistair!  
+🚀 **Computer Science Engineer in training | AI & Cybersecurity Enthusiast**  
 
-<!--
-**AlistairDE/AlistairDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Double-degree Master’s student at **ENSEIRB-MATMECA (France)** and **Illinois Institute of Technology (USA)**.  
+Specializing in **Cybersecurity, Business, and Artificial Intelligence**, graduating in 2026.  
+Passionate about applying AI to **real-world challenges**, from intelligent automation for businesses to building secure IT infrastructures.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Looking for  
+Internship or applied research opportunities in **AI, Cybersecurity, Business and IT Systems** starting in 2025.  
+I am eager to contribute technical expertise, problem-solving skills, and innovative ideas to impactful projects.  
+
+---
+
+## 🛠️ Tech  
+- **AI & Data**: Python, Machine Learning, Generative AI, NLP, RAG architectures  
+- **Cybersecurity**: Network security, Risk management, Secure systems design  
+- **Software & Systems**: C/C++, Java, SQL, Cloud platforms (AWS, Azure), Linux  
+- **Business & Tools**: Project management (Agile, Gantt), CRM automation, Business Intelligence  
+
+---
+
+## 📂 Academic & Professional Projects  
+
+- 🤖 **Conversational AI from Emails**  
+  Knowledge-based agent using Outlook data + vector DB for semantic search (RAG).  
+
+- 🏢 **AI Solutions for Real Estate Agencies**  
+  CRM automation, intelligent email responses, and AI-powered voicebot prototypes.  
+
+- 🚗 **Connected Vehicles Project**  
+  Led an 8-member team, managing design, implementation, and testing of obstacle detection & lane tracking with ITS-G5 communication.  
+
+- 💬 **Chat Client/Server Application**  
+  Multi-client communication system with private channels and authentication.  
+
+---
+
+## 📫 Connect with me  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/alistair-dreux-egger/)  
+- ✉️ [Email](mailto:al.dreuxegger.com)  
