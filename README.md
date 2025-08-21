@@ -24,16 +24,16 @@ I am eager to contribute technical expertise, problem-solving skills, and innova
 ## 📂 Academic & Professional Projects  
 
 - 🤖 **Conversational AI from Emails**  
-  Knowledge-based agent using Outlook data + vector DB for semantic search (RAG).  
+  Knowledge-based agent using Outlook data(pst) + vector DB for semantic search (RAG).  
 
 - 🏢 **AI Solutions for Real Estate Agencies**  
   CRM automation, intelligent email responses, and AI-powered voicebot prototypes.  
 
-- 🚗 **Connected Vehicles Project**  
+- 🚗 **[Connected Vehicles Project](https://github.com/AlistairDE/turtlebot-control-site)**
   Led an 8-member team, managing design, implementation, and testing of obstacle detection & lane tracking with ITS-G5 communication.  
 
-- 💬 **Chat Client/Server Application**  
-  Multi-client communication system with private channels and authentication.  
+- 💬 **[Chat Client/Server Application](https://github.com/AlistairDE/chat-client-server)**  
+  Multi-client communication system with private channels and authentication.   
 
 ---
 
