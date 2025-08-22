@@ -26,11 +26,11 @@ I am eager to contribute technical expertise, problem-solving skills, and innova
 - 🤖 **Conversational AI from Emails**  
   Knowledge-based agent using Outlook data(pst) + vector DB for semantic search (RAG).  
 
-- 🏢 **AI Solutions for Real Estate Agencies**  
+- 🏢 **[AI Solutions for Real Estate Agencies](https://github.com/AlistairDE/real-estate-ai-automation)**  
   CRM automation, intelligent email responses, and AI-powered voicebot prototypes.  
 
 - 🚗 **[Connected Vehicles Project](https://github.com/AlistairDE/turtlebot-control-site)**  
-Implemented **V2V/V2I communication (ITS-G5)** to coordinate vehicles and **smooth traffic flow** (cooperative maneuvers, congestion avoidance, remote monitoring via web UI, MQTT). 
+  Implemented **V2V/V2I communication (ITS-G5)** to coordinate vehicles and **smooth traffic flow** (cooperative maneuvers, congestion avoidance, remote monitoring via web UI, MQTT). 
 
 
 - 💬 **[Chat Client/Server Application](https://github.com/AlistairDE/chat-client-server)**  
