@@ -40,4 +40,4 @@ Implemented **V2V/V2I communication (ITS-G5)** to coordinate vehicles and **smoo
 
 ## 📫 Connect with me  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/alistair-dreux-egger/)  
-- ✉️ [Email](mailto:al.dreuxegger.com)  
+- ✉️ [Email](mailto:al.dreuxegger.com)  al.dreuxegger@gmail.com
