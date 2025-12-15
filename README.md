@@ -23,6 +23,9 @@ I am eager to contribute technical expertise, problem-solving skills, and innova
 
 ## 📂 Academic & Professional Projects  
 
+- 🏥 **[Privacy-Preserving Decentralized Learning with Secure Aggregation](https://github.com/AlistairDE/DecentralizedLearningWithMPC)**  
+  Decentralized & federated training on **MedMNIST v2 (PathMNIST)**. Implemented **secure aggregation via MPC** (DC-Net masking and DC-Net + multi-secret sharing) in a cross-silo hospital setting.
+
 - 🤖 **Conversational AI from Emails**  
   Knowledge-based agent using Outlook data(pst) + vector DB for semantic search (RAG).  
 
