@@ -14,10 +14,10 @@ I am eager to contribute technical expertise, problem-solving skills, and innova
 ---
 
 ## 🛠️ Tech  
-- **AI & Data**: Python, Machine Learning, Generative AI, NLP, RAG architectures  
-- **Cybersecurity**: Network security, Risk management, Secure systems design  
-- **Software & Systems**: C/C++, Java, SQL, Cloud platforms (AWS, Azure), Linux  
-- **Business & Tools**: Project management (Agile, Gantt), CRM automation, Business Intelligence  
+- **AI & Data**: Machine Learning, Federated & Decentralized Learning, Secure Aggregation, RAG architectures 
+- **Cybersecurity**: Network security, Privacy-Preserving ML, Secure systems design
+- **Software & Systems**: Python (PyTorch, NumPy, Pandas, Scikit-learn, Seaborn), C (Client–Server, TCP/IP), SQL, Serverless & Distributed Systems
+- **Business & Tools**: Project management (Agile, Gantt; Jira, Trello), Workflow automation (n8n, ElevenLabs), CRM automation, Business Intelligence
 
 ---
 
