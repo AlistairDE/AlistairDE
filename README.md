@@ -27,10 +27,13 @@ I am eager to contribute technical expertise, problem-solving skills, and innova
   Decentralized & federated training on **MedMNIST v2 (PathMNIST)**. Implemented **secure aggregation via MPC** (DC-Net masking and DC-Net + multi-secret sharing) in a cross-silo hospital setting.
 
 - 🤖 **Conversational AI from Emails**  
-  Knowledge-based agent using Outlook data(pst) + vector DB for semantic search (RAG).  
+  Knowledge-based agent using Outlook data(pst) + vector DB for semantic search (RAG).
 
-- 🏢 **[AI Solutions for Real Estate Agencies](https://github.com/AlistairDE/real-estate-ai-automation)**  
-  CRM automation, intelligent email responses, and AI-powered voicebot prototypes.  
+- 📱 **[AI Workflow Automation for Real Estate Agencies – MVP](https://github.com/AlistairDE/multi-agent-wf)**  
+  MCP-based multi-agent assistants automating CRM updates, smart email handling, Slack notifications, and REST API integrations through n8n self-hosted orchestration.
+
+- 🏢 **[Automated Rent Reconciliation for Real Estate – MVP](https://github.com/AlistairDE/real-estate-ai-automation)**  
+  Self-hosted n8n workflow to ingest bank statements, perform fuzzy matching, track rent payments, update Excel ledgers and automate follow-up emails.
 
 - 🚗 **[Connected Vehicles Project](https://github.com/AlistairDE/turtlebot-control-site)**  
   Implemented **V2V/V2I communication (ITS-G5)** to coordinate vehicles and **smooth traffic flow** (cooperative maneuvers, congestion avoidance, remote monitoring via web UI, MQTT). 
