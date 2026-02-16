@@ -1,49 +1,149 @@
-# Hi, I'm Alistair!  
-🚀 **Computer Science Engineer in training | AI & Cybersecurity Enthusiast**  
+# Hi, I'm Alistair 👋
 
-🎓 Double-degree Master’s student at **ENSEIRB-MATMECA (France)** and **Illinois Institute of Technology (USA)**.  
-Specializing in **Cybersecurity, Business, and Artificial Intelligence**, graduating in 2026.  
-Passionate about applying AI to **real-world challenges**, from intelligent automation for businesses to building secure IT infrastructures.  
+**AI Automation Engineer | Building Intelligent Workflows & AI-Powered Systems**
 
----
+🎓 Dual Master's student at **Illinois Institute of Technology** (Chicago) & **Bordeaux Institute of Technology** (France)  
+🚀 Specializing in **AI-driven automation, workflow orchestration, and intelligent systems**  
+📍 Graduating Summer 2026 | Open to internships & full-time opportunities starting May 2026  
+🇺🇸 Authorized to work in the U.S. (no sponsorship required) | Open to relocation anywhere
 
-## 🔍 Looking for  
-Internship or applied research opportunities in **AI, Cybersecurity, Business and IT Systems** starting in 2025.  
-I am eager to contribute technical expertise, problem-solving skills, and innovative ideas to impactful projects.  
+I build AI systems that actually work—automating workflows, orchestrating multi-agent systems, and integrating LLMs into production environments to solve real business problems.
 
 ---
 
-## 🛠️ Tech  
-- **AI & Data**: Machine Learning, Federated & Decentralized Learning, Secure Aggregation, RAG architectures 
-- **Cybersecurity**: Network security, Privacy-Preserving ML, Secure systems design
-- **Software & Systems**: Python (PyTorch, NumPy, Pandas, Scikit-learn, Seaborn), C (Client–Server, TCP/IP), SQL, Serverless & Distributed Systems
-- **Business & Tools**: Project management (Agile, Gantt; Jira, Trello), Workflow automation (n8n, ElevenLabs), CRM automation, Business Intelligence
+## 🎯 What I'm Looking For
+
+**Roles I'm targeting:**
+- Internal AI Product Management Intern
+- AI-First Orchestration Engineer
+- AI Automation Engineer
+- Technical Product Manager (AI/Automation focus)
+
+I'm looking for opportunities where I can bridge AI capabilities with real-world business needs—building internal tools, automating workflows, and deploying intelligent systems that make teams more productive.
 
 ---
 
-## 📂 Academic & Professional Projects  
+## 🛠️ Technical Stack
 
-- 🏥 **[Privacy-Preserving Decentralized Learning with Secure Aggregation](https://github.com/AlistairDE/DecentralizedLearningWithMPC)**  
-  Decentralized & federated training on **MedMNIST v2 (PathMNIST)**. Implemented **secure aggregation via MPC** (DC-Net masking and DC-Net + multi-secret sharing) in a cross-silo hospital setting.
+**AI & Automation**
+- LLM Integration: LangChain, RAG architectures, prompt engineering
+- Workflow Orchestration: n8n (self-hosted), MCP, API integrations, Zapier, Make
+- Agent Systems: Multi-agent workflows, autonomous task execution
+- Vector Databases: ChromaDB, Pinecone for semantic search & retrieval
 
-- 🤖 **Conversational AI from Emails**  
-  Knowledge-based agent using Outlook data(pst) + vector DB for semantic search (RAG).
+**Engineering & Infrastructure**
+- Languages: Python, C, SQL, JAVA
+- ML/Data: PyTorch, Scikit-Learn, NumPy, Pandas
+- Databases: PostgreSQL, MongoDB, vector stores
+- DevOps: Docker, CI/CD pipelines, Linux server deployment
+- APIs: REST, FastAPI, TCP/IP stack
 
-- 📱 **[AI Workflow Automation for Real Estate Agencies – MVP](https://github.com/AlistairDE/multi-agent-wf)**  
-  MCP-based multi-agent assistants automating CRM updates, smart email handling, Slack notifications, and REST API integrations through n8n self-hosted orchestration.
-
-- 🏢 **[Automated Rent Reconciliation for Real Estate – MVP](https://github.com/AlistairDE/real-estate-ai-automation)**  
-  Self-hosted n8n workflow to ingest bank statements, perform fuzzy matching, track rent payments, update Excel ledgers and automate follow-up emails.
-
-- 🚗 **[Connected Vehicles Project](https://github.com/AlistairDE/turtlebot-control-site)**  
-  Implemented **V2V/V2I communication (ITS-G5)** to coordinate vehicles and **smooth traffic flow** (cooperative maneuvers, congestion avoidance, remote monitoring via web UI, MQTT). 
-
-
-- 💬 **[Chat Client/Server Application](https://github.com/AlistairDE/chat-client-server)**  
-  Multi-client communication system with private channels and authentication.   
+**Business & Product**
+- Salesforce Certified Business Analyst (April 2026)
+- CRM automation & integration
+- Workflow analysis & process optimization
+- Cross-functional collaboration (technical ↔ business stakeholders)
 
 ---
 
-## 📫 Connect with me  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/alistair-dreux-egger/)  
-- ✉️ [Email](mailto:al.dreuxegger.com)  al.dreuxegger@gmail.com
+## 💼 Featured Projects
+
+### 🤖 **[AI Workflow Automation Platform – Real Estate Agency MVP](https://github.com/AlistairDE/multi-agent-wf)**
+*Founder, AI & Automation Solutions (INP'ulse Startup Incubator)*
+
+Built production MCP-based multi-agent system automating internal business operations:
+- **RAG-powered chatbot** from Outlook archives (LangChain) → reduced repeat CTO questions by 80%
+- **AI assistants** for CRM updates, smart email routing, Slack comms via REST APIs → saved 25+ min/agent/day
+- **Voice bot** for appointment booking → reduced agent phone load by 70%
+- Deployed on Dockerized Linux with full CI/CD, ChromaDB/Pinecone for retrieval, 100% data privacy
+
+**Tech:** Python, LangChain, n8n, Docker, Vector DBs, MCP, REST APIs
+
+---
+
+### 📊 **[Automated Rent Reconciliation System](https://github.com/AlistairDE/real-estate-ai-automation)**
+*Automation Engineer Intern, MILAO INVEST*
+
+Self-hosted n8n workflow automating financial operations for 35+ tenants:
+- Bank statement ingestion + fuzzy matching engine for payment tracking
+- Automated Excel ledger updates + follow-up email generation
+- **Eliminated 8+ hrs/month manual work & 100% of human errors**
+
+**Tech:** n8n (self-hosted), Python, fuzzy matching, Excel automation
+
+---
+
+### 🏥 **[Privacy-Preserving Decentralized Learning (Research)](https://github.com/AlistairDE/DecentralizedLearningWithMPC)**
+
+Built decentralized ML pipeline for medical imaging with secure aggregation:
+- Simulated hospital network training SmallCNN on MedMNIST v2 (PathMNIST)
+- Implemented DC-Net & DC-Net+MSS protocols for 100% data privacy
+- 35-hour experimental grid search (102 configurations) analyzing privacy/accuracy trade-offs
+- Co-authored research paper on methodology & results
+
+**Tech:** PyTorch, Federated Learning, Secure Multi-Party Computation (MPC)
+
+---
+
+### 💬 **[RAG-Based Conversational AI from Email Archives](https://github.com/AlistairDE/outlook-rag-chatbot)**
+
+Knowledge assistant using organizational memory:
+- Ingested Outlook .pst files → vector database for semantic search
+- RAG architecture (LangChain) for context-aware responses
+- Deflected 100% of queries already answered in email history
+
+**Tech:** Python, LangChain, Vector DBs, RAG, Outlook API
+
+---
+
+### 🚗 **[Connected Vehicles IoT System](https://github.com/AlistairDE/turtlebot-control-site)**
+
+V2V/V2I communication system for traffic coordination:
+- ITS-G5 protocol for vehicle-to-vehicle messaging
+- Real-time monitoring dashboard (MQTT, web UI)
+- Cooperative maneuvers & congestion management
+
+**Tech:** C, TCP/IP, MQTT, IoT protocols, embedded systems
+
+---
+
+## 📚 Education
+
+**Illinois Institute of Technology** – Chicago, IL  
+M.S. Computer Science (AI & Business) | GPA: 4.0/4.0 (Dean's List) | Aug 2025 - Dec 2026
+
+**Bordeaux Institute of Technology** – France  
+M.S. Computer Science (Distributed Systems & Networks) | GPA: 4.0/4.0 | Sep 2023 - Aug 2026  
+B.S. Computer Science (Software Development) | GPA: 4.0/4.0 | Graduated Jun 2023
+
+**Relevant Coursework:** Efficient ML Systems, Prompt Engineering & Systems Optimization, Distributed Systems, Network Security
+
+---
+
+## 🏆 Certifications
+
+✅ **Salesforce Certified Business Analyst** (April 2026)
+
+---
+
+## 🌍 Languages
+
+🇺🇸 English (Fluent)  
+🇫🇷 French (Native)  
+🇪🇸 Spanish (Fluent)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alistairDE)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlistairDE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:al.dreuxegger@gmail.com)
+
+📧 al.dreuxegger@gmail.com  
+📱 773-668-2076  
+📍 Chicago, IL | Open to relocation anywhere in the U.S.
+
+---
+
+*Looking for someone who can build AI systems that bridge technical capabilities with real business impact? Let's talk.*
