@@ -14,11 +14,11 @@ I build AI systems, automating workflows, orchestrating multi-agent systems inte
 ## 📚 Education
 
 **Illinois Institute of Technology** – Chicago, IL  
-M.S. Computer Science (AI & Business) | GPA: 4.0/4.0 (Dean's List) | Aug 2025 - Dec 2026
+M.S. Computer Science (AI & Business) | GPA: 4.0/4.0 (Dean's List) | Aug 2025 - Aug or Dec 2026
 
 **Bordeaux Institute of Technology** – France  
-M.S. Computer Science (Distributed Systems & Networks) | GPA: 4.0/4.0 | Sep 2023 - Aug 2026  
-B.S. Computer Science (Software Development) | GPA: 4.0/4.0 | Graduated Jun 2023
+M.S. Computer Science (Distributed Systems & Networks) | Sep 2023 - Aug 2026  
+B.S. Computer Science (Software Development) | Graduated Jun 2023
 
 **Relevant Coursework:** Efficient ML Systems, Prompt Engineering & Systems Optimization, Distributed Systems, Network Security
 
@@ -90,24 +90,11 @@ V2V/V2I communication system for traffic coordination:
 
 ---
 
-## 📚 Education
-
-**Illinois Institute of Technology** – Chicago, IL  
-M.S. Computer Science (AI & Business) | GPA: 4.0/4.0 (Dean's List) | Aug 2025 - Aug 2026
-
-**ENSEIRB MATMECA** – Bordeaux, France 
-M.S. Computer Science (Distributed Systems & Networks) | GPA: 4.0/4.0 | Sep 2023 - Aug 2026  
-B.S. Computer Science (Software Development) | GPA: 4.0/4.0 | Graduated Jun 2023
-
-**Relevant Coursework:** Efficient ML Systems, Prompt Engineering & Systems Optimization, Distributed Systems, Network Security
-
----
-
 ## 🏆 Certifications
 
-✅ **Salesforce Certified Business Analyst** (April 2026)
-✅ **Generative AI for Business Intelligence (BI) Analysts Specialization** – IBM/Coursera (April 2025)
-✅ **Linux Commands & Shell Scripting** – IBM/edX (January 2024)
+- ✅ **Salesforce Certified Business Analyst** (April 2026)
+- ✅ **Generative AI for Business Intelligence (BI) Analysts Specialization** – IBM/Coursera (April 2025)
+- ✅ **Linux Commands & Shell Scripting** – IBM/edX (January 2024)
 
 ---
 
